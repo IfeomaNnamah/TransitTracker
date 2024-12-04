@@ -1,0 +1,71 @@
+[{
+    "po_number": "4560176618",
+    "createdOn": "213/12/2023",
+    "buyer_email": "Nonye.FINECOUNTRY@totalenergies.com    ",
+    "buyer_name": "Nonye FINECOUNTRY",
+    "final_shipping_address": "NNPC ELF ONNE - BASE ONNE, NIGERIA",
+    "po_lineitems": [
+        {
+            "itemno": 1,
+            "po_number": "4560176618",
+            "material_no": "2664664",
+            "material_description": "SAFETY, JOINT WITH GS FISH NECK ",
+            "delivery_date": "20-11-2023",
+            "quantity": "1",
+            "unit": "Each",
+            "unit_price": "24.99",
+            "net_amount": "7,333.87",
+            "manufacturer_part_no": "TBA",
+            "manufacturer": "Thru Tubing System"
+        },
+        {
+            "itemno": 2,
+            "po_number": "4560176618",
+            "material_no": "2664342",
+            "material_description": "2.7/8', 4.6# PARAGON II ONE-TRIP CEMENT RETAINER, 5,000 PSI ",
+            "delivery_date": "20-11-2023",
+            "quantity": "2",
+            "unit": "Each",
+            "unit_price": "40.99",
+            "net_amount": "7,333.87",
+            "manufacturer_part_no": "TBA",
+            "manufacturer": "Thru Tubing System"
+        }
+    ]
+},
+{
+    "po_number": "3742340911",
+    "createdOn": "213/12/2023",
+    "buyer_email": "ifeoma.nnamah@totalenergies.com    ",
+    "buyer_name": "Ifeoma Nnamah",
+    "final_shipping_address": "NNPC ELF ONNE - BASE ONNE, NIGERIA",
+    "po_lineitems": [
+        {
+            "itemno": 1,
+            "po_number": "3742340911",
+            "material_no": "6384723",
+            "material_description": "SAFETY, JOINT WITH GS FISH NECK ",
+            "delivery_date": "20-11-2023",
+            "quantity": "1.00",
+            "unit": "Each",
+            "unit_price": "7,333.87",
+            "net_amount": "7,333.87",
+            "manufacturer_part_no": "TBA",
+            "manufacturer": "Thru Tubing System"
+        },
+        {
+            "itemno": 2,
+            "po_number": "3742340911",
+            "material_no": "26382383",
+            "material_description": "2.7/8', 4.6# PARAGON II ONE-TRIP CEMENT RETAINER, 5,000 PSI ",
+            "delivery_date": "20-11-2023",
+            "quantity": "2.00",
+            "unit": "Each",
+            "unit_price": "7,333.87",
+            "net_amount": "7,333.87",
+            "manufacturer_part_no": "TBA",
+            "manufacturer": "Thru Tubing System"
+        }
+    ]
+}
+]
